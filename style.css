@@ -1,9 +1,31 @@
 body{
-    background-color: black;
+    background-color: #333;
     text-align: center;
     margin-top: 300px;
+    height: 200px;
 }
 h2{
-    color: white;
+    color: blue;
+    border: 2px solid oldlace;
+    padding-left: 10px;
+    padding-right: 10px;
     display: inline-block;
+}
+h1{
+    color: #fff;
+    font-size: 50px;
+}
+
+.watch{
+    text-align: center;
+    padding-top: 100px;
+}
+.container{
+    
+    height: 300px;
+    width: 300px;    
+    margin-left: 500px;
+    border: 2px solid black;
+    border-radius: 50%;
+
 }

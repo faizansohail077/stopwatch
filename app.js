@@ -37,9 +37,9 @@ function stop(){
 
 
 function reset(){
- min=0
- sec=0
- msec=0
+ min=0 ;
+ sec=0 ;
+ msec=0 ;
  minHeading.innerHTML=min
  secHeading.innerHTML=sec
  msecHeading.innerHTML=msec
